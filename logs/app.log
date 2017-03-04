@@ -1,0 +1,564 @@
+2017-03-04 00:49:46,418 DEBUG c.s.d.TestMyStockCode [main] -------------------------- details for Stock - POP
+2017-03-04 00:49:46,425 DEBUG c.s.d.TestMyStockCode [main] POP dividend: 0.8791208791208791
+2017-03-04 00:49:46,425 DEBUG c.s.d.TestMyStockCode [main] POP P/E Ratio: 10.35125
+2017-03-04 00:49:46,429 DEBUG c.s.d.TestMyStockCode [main] POP's 1 shares were bought at £2.754346371419917
+2017-03-04 00:49:46,430 DEBUG c.s.d.TestMyStockCode [main] POP's 1 shares were sold   at £6.710529973380001
+2017-03-04 00:49:46,431 DEBUG c.s.d.TestMyStockCode [main] POP's 2 shares were bought at £8.15376061252567
+2017-03-04 00:49:46,431 DEBUG c.s.d.TestMyStockCode [main] POP's 2 shares were sold   at £6.047452538628835
+2017-03-04 00:49:46,431 DEBUG c.s.d.TestMyStockCode [main] POP's 3 shares were bought at £5.402730370285072
+2017-03-04 00:49:46,432 DEBUG c.s.d.TestMyStockCode [main] POP's 3 shares were sold   at £2.516454414152502
+2017-03-04 00:49:46,432 DEBUG c.s.d.TestMyStockCode [main] POP's 4 shares were bought at £5.023316171433118
+2017-03-04 00:49:46,432 DEBUG c.s.d.TestMyStockCode [main] POP's 4 shares were sold   at £7.079282860302608
+2017-03-04 00:49:46,433 DEBUG c.s.d.TestMyStockCode [main] POP's 5 shares were bought at £3.209470779824798
+2017-03-04 00:49:46,433 DEBUG c.s.d.TestMyStockCode [main] POP's 5 shares were sold   at £8.555431592132953
+2017-03-04 00:49:46,434 DEBUG c.s.d.TestMyStockCode [main] POP's 6 shares were bought at £6.792519599950532
+2017-03-04 00:49:46,434 DEBUG c.s.d.TestMyStockCode [main] POP's 6 shares were sold   at £2.4132728358490496
+2017-03-04 00:49:46,434 DEBUG c.s.d.TestMyStockCode [main] POP's 7 shares were bought at £2.938015417523994
+2017-03-04 00:49:46,434 DEBUG c.s.d.TestMyStockCode [main] POP's 7 shares were sold   at £4.151609164527484
+2017-03-04 00:49:46,435 DEBUG c.s.d.TestMyStockCode [main] POP's 8 shares were bought at £2.9685769244343305
+2017-03-04 00:49:46,435 DEBUG c.s.d.TestMyStockCode [main] POP's 8 shares were sold   at £9.528231538876252
+2017-03-04 00:49:46,435 DEBUG c.s.d.TestMyStockCode [main] POP's 9 shares were bought at £7.201385374079984
+2017-03-04 00:49:46,435 DEBUG c.s.d.TestMyStockCode [main] POP's 9 shares were sold   at £4.417143102841555
+2017-03-04 00:49:46,435 DEBUG c.s.d.TestMyStockCode [main] POP's 10 shares were bought at £7.797727141777819
+2017-03-04 00:49:46,435 DEBUG c.s.d.TestMyStockCode [main] POP's 10 shares were sold   at £8.067306945798794
+2017-03-04 00:49:46,436 DEBUG c.s.d.TestMyStockCode [main] ---------------------------------------------------------
+2017-03-04 00:49:46,451 DEBUG c.s.d.TestMyStockCode [main] POP last traded price: £8.067306945798794
+2017-03-04 00:49:46,462 DEBUG c.s.d.TestMyStockCode [main] POP 15 mnts stockPrice is : £6.2871575534685284
+2017-03-04 00:49:46,463 DEBUG c.s.d.TestMyStockCode [main] -------------------------- End of details for Stock ---- POP
+2017-03-04 00:49:46,463 DEBUG c.s.d.TestMyStockCode [main] -------------------------- details for Stock - TEA
+2017-03-04 00:49:46,463 DEBUG c.s.d.TestMyStockCode [main] TEA dividend: 0.0
+2017-03-04 00:49:46,463 DEBUG c.s.d.TestMyStockCode [main] TEA P/E Ratio: Infinity
+2017-03-04 00:49:46,469 DEBUG c.s.d.TestMyStockCode [main] TEA's 1 shares were bought at £7.553260926000736
+2017-03-04 00:49:46,469 DEBUG c.s.d.TestMyStockCode [main] TEA's 1 shares were sold   at £6.871884291159809
+2017-03-04 00:49:46,470 DEBUG c.s.d.TestMyStockCode [main] TEA's 2 shares were bought at £6.884936286140367
+2017-03-04 00:49:46,471 DEBUG c.s.d.TestMyStockCode [main] TEA's 2 shares were sold   at £5.29833731244463
+2017-03-04 00:49:46,473 DEBUG c.s.d.TestMyStockCode [main] TEA's 3 shares were bought at £8.732655499097945
+2017-03-04 00:49:46,473 DEBUG c.s.d.TestMyStockCode [main] TEA's 3 shares were sold   at £2.9442434112878524
+2017-03-04 00:49:46,474 DEBUG c.s.d.TestMyStockCode [main] TEA's 4 shares were bought at £1.4702389778587284
+2017-03-04 00:49:46,474 DEBUG c.s.d.TestMyStockCode [main] TEA's 4 shares were sold   at £8.8791814051187
+2017-03-04 00:49:46,474 DEBUG c.s.d.TestMyStockCode [main] TEA's 5 shares were bought at £8.34707780184386
+2017-03-04 00:49:46,474 DEBUG c.s.d.TestMyStockCode [main] TEA's 5 shares were sold   at £5.8567016791510715
+2017-03-04 00:49:46,475 DEBUG c.s.d.TestMyStockCode [main] TEA's 6 shares were bought at £1.9970486281538784
+2017-03-04 00:49:46,475 DEBUG c.s.d.TestMyStockCode [main] TEA's 6 shares were sold   at £2.20294970180916
+2017-03-04 00:49:46,475 DEBUG c.s.d.TestMyStockCode [main] TEA's 7 shares were bought at £7.307937597965956
+2017-03-04 00:49:46,475 DEBUG c.s.d.TestMyStockCode [main] TEA's 7 shares were sold   at £1.428929368402552
+2017-03-04 00:49:46,475 DEBUG c.s.d.TestMyStockCode [main] TEA's 8 shares were bought at £8.738458900941566
+2017-03-04 00:49:46,476 DEBUG c.s.d.TestMyStockCode [main] TEA's 8 shares were sold   at £6.792105786469407
+2017-03-04 00:49:46,476 DEBUG c.s.d.TestMyStockCode [main] TEA's 9 shares were bought at £1.131245469656561
+2017-03-04 00:49:46,476 DEBUG c.s.d.TestMyStockCode [main] TEA's 9 shares were sold   at £9.601976715785744
+2017-03-04 00:49:46,476 DEBUG c.s.d.TestMyStockCode [main] TEA's 10 shares were bought at £6.900115968220038
+2017-03-04 00:49:46,476 DEBUG c.s.d.TestMyStockCode [main] TEA's 10 shares were sold   at £2.7671485510696194
+2017-03-04 00:49:46,477 DEBUG c.s.d.TestMyStockCode [main] ---------------------------------------------------------
+2017-03-04 00:49:46,477 DEBUG c.s.d.TestMyStockCode [main] TEA last traded price: £2.7671485510696194
+2017-03-04 00:49:46,477 DEBUG c.s.d.TestMyStockCode [main] TEA 15 mnts stockPrice is : £4.6760190690420425
+2017-03-04 00:49:46,477 DEBUG c.s.d.TestMyStockCode [main] -------------------------- End of details for Stock ---- TEA
+2017-03-04 00:49:46,478 DEBUG c.s.d.TestMyStockCode [main] -------------------------- details for Stock - JOE
+2017-03-04 00:49:46,478 DEBUG c.s.d.TestMyStockCode [main] JOE dividend: 1.4285714285714286
+2017-03-04 00:49:46,478 DEBUG c.s.d.TestMyStockCode [main] JOE P/E Ratio: 6.369999999999999
+2017-03-04 00:49:46,478 DEBUG c.s.d.TestMyStockCode [main] JOE's 1 shares were bought at £8.475915409922093
+2017-03-04 00:49:46,479 DEBUG c.s.d.TestMyStockCode [main] JOE's 1 shares were sold   at £1.2059144481687905
+2017-03-04 00:49:46,479 DEBUG c.s.d.TestMyStockCode [main] JOE's 2 shares were bought at £3.529334090837521
+2017-03-04 00:49:46,479 DEBUG c.s.d.TestMyStockCode [main] JOE's 2 shares were sold   at £7.456429340839124
+2017-03-04 00:49:46,479 DEBUG c.s.d.TestMyStockCode [main] JOE's 3 shares were bought at £6.2052136774433
+2017-03-04 00:49:46,479 DEBUG c.s.d.TestMyStockCode [main] JOE's 3 shares were sold   at £7.25929368133213
+2017-03-04 00:49:46,480 DEBUG c.s.d.TestMyStockCode [main] JOE's 4 shares were bought at £6.888197827711291
+2017-03-04 00:49:46,480 DEBUG c.s.d.TestMyStockCode [main] JOE's 4 shares were sold   at £9.591729876507388
+2017-03-04 00:49:46,480 DEBUG c.s.d.TestMyStockCode [main] JOE's 5 shares were bought at £5.334498934523001
+2017-03-04 00:49:46,480 DEBUG c.s.d.TestMyStockCode [main] JOE's 5 shares were sold   at £3.2876335793958296
+2017-03-04 00:49:46,480 DEBUG c.s.d.TestMyStockCode [main] JOE's 6 shares were bought at £1.8628085013270863
+2017-03-04 00:49:46,481 DEBUG c.s.d.TestMyStockCode [main] JOE's 6 shares were sold   at £1.6128649707338618
+2017-03-04 00:49:46,481 DEBUG c.s.d.TestMyStockCode [main] JOE's 7 shares were bought at £6.248376794756619
+2017-03-04 00:49:46,481 DEBUG c.s.d.TestMyStockCode [main] JOE's 7 shares were sold   at £3.25495293326793
+2017-03-04 00:49:46,481 DEBUG c.s.d.TestMyStockCode [main] JOE's 8 shares were bought at £2.904617423748757
+2017-03-04 00:49:46,481 DEBUG c.s.d.TestMyStockCode [main] JOE's 8 shares were sold   at £2.954232363018017
+2017-03-04 00:49:46,482 DEBUG c.s.d.TestMyStockCode [main] JOE's 9 shares were bought at £9.368796646316357
+2017-03-04 00:49:46,482 DEBUG c.s.d.TestMyStockCode [main] JOE's 9 shares were sold   at £2.6490502831712894
+2017-03-04 00:49:46,482 DEBUG c.s.d.TestMyStockCode [main] JOE's 10 shares were bought at £9.38736782498763
+2017-03-04 00:49:46,482 DEBUG c.s.d.TestMyStockCode [main] JOE's 10 shares were sold   at £1.4376259949314305
+2017-03-04 00:49:46,483 DEBUG c.s.d.TestMyStockCode [main] ---------------------------------------------------------
+2017-03-04 00:49:46,486 DEBUG c.s.d.TestMyStockCode [main] JOE last traded price: £1.4376259949314305
+2017-03-04 00:49:46,487 DEBUG c.s.d.TestMyStockCode [main] JOE 15 mnts stockPrice is : £2.8371702255478373
+2017-03-04 00:49:46,487 DEBUG c.s.d.TestMyStockCode [main] -------------------------- End of details for Stock ---- JOE
+2017-03-04 00:49:46,487 DEBUG c.s.d.TestMyStockCode [main] -------------------------- details for Stock - ALE
+2017-03-04 00:49:46,487 DEBUG c.s.d.TestMyStockCode [main] ALE dividend: 2.5274725274725274
+2017-03-04 00:49:46,488 DEBUG c.s.d.TestMyStockCode [main] ALE P/E Ratio: 3.6004347826086955
+2017-03-04 00:49:46,488 DEBUG c.s.d.TestMyStockCode [main] ALE's 1 shares were bought at £8.925146769764364
+2017-03-04 00:49:46,488 DEBUG c.s.d.TestMyStockCode [main] ALE's 1 shares were sold   at £4.813592781192591
+2017-03-04 00:49:46,488 DEBUG c.s.d.TestMyStockCode [main] ALE's 2 shares were bought at £2.2990636513321867
+2017-03-04 00:49:46,489 DEBUG c.s.d.TestMyStockCode [main] ALE's 2 shares were sold   at £4.134299013097471
+2017-03-04 00:49:46,489 DEBUG c.s.d.TestMyStockCode [main] ALE's 3 shares were bought at £1.8040427092084563
+2017-03-04 00:49:46,490 DEBUG c.s.d.TestMyStockCode [main] ALE's 3 shares were sold   at £6.381563427533955
+2017-03-04 00:49:46,490 DEBUG c.s.d.TestMyStockCode [main] ALE's 4 shares were bought at £4.2717225301542605
+2017-03-04 00:49:46,490 DEBUG c.s.d.TestMyStockCode [main] ALE's 4 shares were sold   at £7.512935046075234
+2017-03-04 00:49:46,490 DEBUG c.s.d.TestMyStockCode [main] ALE's 5 shares were bought at £7.295797674340317
+2017-03-04 00:49:46,490 DEBUG c.s.d.TestMyStockCode [main] ALE's 5 shares were sold   at £3.6957220167385527
+2017-03-04 00:49:46,490 DEBUG c.s.d.TestMyStockCode [main] ALE's 6 shares were bought at £4.678664485010769
+2017-03-04 00:49:46,491 DEBUG c.s.d.TestMyStockCode [main] ALE's 6 shares were sold   at £4.567364287645928
+2017-03-04 00:49:46,491 DEBUG c.s.d.TestMyStockCode [main] ALE's 7 shares were bought at £4.453574148261311
+2017-03-04 00:49:46,491 DEBUG c.s.d.TestMyStockCode [main] ALE's 7 shares were sold   at £5.423240369497708
+2017-03-04 00:49:46,491 DEBUG c.s.d.TestMyStockCode [main] ALE's 8 shares were bought at £9.565205576358153
+2017-03-04 00:49:46,491 DEBUG c.s.d.TestMyStockCode [main] ALE's 8 shares were sold   at £9.592095007985895
+2017-03-04 00:49:46,492 DEBUG c.s.d.TestMyStockCode [main] ALE's 9 shares were bought at £2.7856443926880696
+2017-03-04 00:49:46,492 DEBUG c.s.d.TestMyStockCode [main] ALE's 9 shares were sold   at £9.756554666101811
+2017-03-04 00:49:46,492 DEBUG c.s.d.TestMyStockCode [main] ALE's 10 shares were bought at £9.453655775824132
+2017-03-04 00:49:46,492 DEBUG c.s.d.TestMyStockCode [main] ALE's 10 shares were sold   at £4.651812628882229
+2017-03-04 00:49:46,492 DEBUG c.s.d.TestMyStockCode [main] ---------------------------------------------------------
+2017-03-04 00:49:46,493 DEBUG c.s.d.TestMyStockCode [main] ALE last traded price: £4.651812628882229
+2017-03-04 00:49:46,493 DEBUG c.s.d.TestMyStockCode [main] ALE 15 mnts stockPrice is : £5.563349265278061
+2017-03-04 00:49:46,493 DEBUG c.s.d.TestMyStockCode [main] -------------------------- End of details for Stock ---- ALE
+2017-03-04 00:49:46,493 DEBUG c.s.d.TestMyStockCode [main] -------------------------- details for Stock - GIN
+2017-03-04 00:49:46,493 DEBUG c.s.d.TestMyStockCode [main] GIN dividend: 0.21978021978021978
+2017-03-04 00:49:46,493 DEBUG c.s.d.TestMyStockCode [main] GIN P/E Ratio: 41.405
+2017-03-04 00:49:46,494 DEBUG c.s.d.TestMyStockCode [main] GIN's 1 shares were bought at £1.469219592697087
+2017-03-04 00:49:46,494 DEBUG c.s.d.TestMyStockCode [main] GIN's 1 shares were sold   at £3.6128151619545585
+2017-03-04 00:49:46,494 DEBUG c.s.d.TestMyStockCode [main] GIN's 2 shares were bought at £9.90412502857928
+2017-03-04 00:49:46,494 DEBUG c.s.d.TestMyStockCode [main] GIN's 2 shares were sold   at £5.301468982455192
+2017-03-04 00:49:46,495 DEBUG c.s.d.TestMyStockCode [main] GIN's 3 shares were bought at £3.4259332477421
+2017-03-04 00:49:46,495 DEBUG c.s.d.TestMyStockCode [main] GIN's 3 shares were sold   at £5.030203163842611
+2017-03-04 00:49:46,495 DEBUG c.s.d.TestMyStockCode [main] GIN's 4 shares were bought at £8.353842829962447
+2017-03-04 00:49:46,496 DEBUG c.s.d.TestMyStockCode [main] GIN's 4 shares were sold   at £9.931377000394994
+2017-03-04 00:49:46,496 DEBUG c.s.d.TestMyStockCode [main] GIN's 5 shares were bought at £6.664558016360427
+2017-03-04 00:49:46,496 DEBUG c.s.d.TestMyStockCode [main] GIN's 5 shares were sold   at £4.517480913330891
+2017-03-04 00:49:46,496 DEBUG c.s.d.TestMyStockCode [main] GIN's 6 shares were bought at £9.168178603135292
+2017-03-04 00:49:46,496 DEBUG c.s.d.TestMyStockCode [main] GIN's 6 shares were sold   at £9.550418550032521
+2017-03-04 00:49:46,497 DEBUG c.s.d.TestMyStockCode [main] GIN's 7 shares were bought at £8.401110992694885
+2017-03-04 00:49:46,497 DEBUG c.s.d.TestMyStockCode [main] GIN's 7 shares were sold   at £8.302121323452624
+2017-03-04 00:49:46,497 DEBUG c.s.d.TestMyStockCode [main] GIN's 8 shares were bought at £9.578119862544328
+2017-03-04 00:49:46,497 DEBUG c.s.d.TestMyStockCode [main] GIN's 8 shares were sold   at £8.335152371344567
+2017-03-04 00:49:46,498 DEBUG c.s.d.TestMyStockCode [main] GIN's 9 shares were bought at £8.029147671860871
+2017-03-04 00:49:46,498 DEBUG c.s.d.TestMyStockCode [main] GIN's 9 shares were sold   at £1.0873068319281596
+2017-03-04 00:49:46,498 DEBUG c.s.d.TestMyStockCode [main] GIN's 10 shares were bought at £1.4743381908079898
+2017-03-04 00:49:46,498 DEBUG c.s.d.TestMyStockCode [main] GIN's 10 shares were sold   at £1.3151840643702029
+2017-03-04 00:49:46,498 DEBUG c.s.d.TestMyStockCode [main] ---------------------------------------------------------
+2017-03-04 00:49:46,499 DEBUG c.s.d.TestMyStockCode [main] GIN last traded price: £1.3151840643702029
+2017-03-04 00:49:46,499 DEBUG c.s.d.TestMyStockCode [main] GIN 15 mnts stockPrice is : £5.885613769215768
+2017-03-04 00:49:46,499 DEBUG c.s.d.TestMyStockCode [main] -------------------------- End of details for Stock ---- GIN
+2017-03-04 00:49:46,500 DEBUG c.s.d.TestMyStockCode [main] the calculated All Share Index is  2.8747702697333555
+2017-03-04 00:51:40,780 DEBUG c.s.d.TestMyStockCode [main] -------------------------- details for Stock - POP
+2017-03-04 00:51:40,785 DEBUG c.s.d.TestMyStockCode [main] POP dividend: 0.8791208791208791
+2017-03-04 00:51:40,785 DEBUG c.s.d.TestMyStockCode [main] POP P/E Ratio: 10.35125
+2017-03-04 00:51:40,789 DEBUG c.s.d.TestMyStockCode [main] POP's 1 shares were bought at £3.3610147153910264
+2017-03-04 00:51:40,790 DEBUG c.s.d.TestMyStockCode [main] POP's 1 shares were sold   at £1.7176967629149966
+2017-03-04 00:51:40,791 DEBUG c.s.d.TestMyStockCode [main] POP's 2 shares were bought at £9.321900208081916
+2017-03-04 00:51:40,792 DEBUG c.s.d.TestMyStockCode [main] POP's 2 shares were sold   at £4.686594864905668
+2017-03-04 00:51:40,792 DEBUG c.s.d.TestMyStockCode [main] POP's 3 shares were bought at £3.780819382293763
+2017-03-04 00:51:40,793 DEBUG c.s.d.TestMyStockCode [main] POP's 3 shares were sold   at £6.126572123882594
+2017-03-04 00:51:40,793 DEBUG c.s.d.TestMyStockCode [main] POP's 4 shares were bought at £6.047835101595961
+2017-03-04 00:51:40,793 DEBUG c.s.d.TestMyStockCode [main] POP's 4 shares were sold   at £1.1348343999487753
+2017-03-04 00:51:40,793 DEBUG c.s.d.TestMyStockCode [main] POP's 5 shares were bought at £1.341300810759841
+2017-03-04 00:51:40,794 DEBUG c.s.d.TestMyStockCode [main] POP's 5 shares were sold   at £7.654365097149562
+2017-03-04 00:51:40,794 DEBUG c.s.d.TestMyStockCode [main] POP's 6 shares were bought at £2.3300596602995856
+2017-03-04 00:51:40,795 DEBUG c.s.d.TestMyStockCode [main] POP's 6 shares were sold   at £2.0254802013044775
+2017-03-04 00:51:40,795 DEBUG c.s.d.TestMyStockCode [main] POP's 7 shares were bought at £1.3144995295657844
+2017-03-04 00:51:40,795 DEBUG c.s.d.TestMyStockCode [main] POP's 7 shares were sold   at £1.0903243667093792
+2017-03-04 00:51:40,795 DEBUG c.s.d.TestMyStockCode [main] POP's 8 shares were bought at £9.190693450495528
+2017-03-04 00:51:40,795 DEBUG c.s.d.TestMyStockCode [main] POP's 8 shares were sold   at £1.863953906398656
+2017-03-04 00:51:40,796 DEBUG c.s.d.TestMyStockCode [main] POP's 9 shares were bought at £7.631987251252267
+2017-03-04 00:51:40,796 DEBUG c.s.d.TestMyStockCode [main] POP's 9 shares were sold   at £7.551333511166022
+2017-03-04 00:51:40,796 DEBUG c.s.d.TestMyStockCode [main] POP's 10 shares were bought at £6.799598478503765
+2017-03-04 00:51:40,796 DEBUG c.s.d.TestMyStockCode [main] POP's 10 shares were sold   at £4.116922151020215
+2017-03-04 00:51:40,797 DEBUG c.s.d.TestMyStockCode [main] ---------------------------------------------------------
+2017-03-04 00:51:40,797 DEBUG c.s.d.TestMyStockCode [main] POP last traded price: £4.116922151020215
+2017-03-04 00:51:40,800 DEBUG c.s.d.TestMyStockCode [main] POP 15 mnts stockPrice is : £3.0444258987987016
+2017-03-04 00:51:40,801 DEBUG c.s.d.TestMyStockCode [main] -------------------------- End of details for Stock ---- POP
+2017-03-04 00:51:40,801 DEBUG c.s.d.TestMyStockCode [main]                                                                                         
+2017-03-04 00:51:40,801 DEBUG c.s.d.TestMyStockCode [main] -------------------------- details for Stock - TEA
+2017-03-04 00:51:40,801 DEBUG c.s.d.TestMyStockCode [main] TEA dividend: 0.0
+2017-03-04 00:51:40,801 DEBUG c.s.d.TestMyStockCode [main] TEA P/E Ratio: Infinity
+2017-03-04 00:51:40,801 DEBUG c.s.d.TestMyStockCode [main] TEA's 1 shares were bought at £2.1456543096846517
+2017-03-04 00:51:40,802 DEBUG c.s.d.TestMyStockCode [main] TEA's 1 shares were sold   at £7.7203584494782636
+2017-03-04 00:51:40,802 DEBUG c.s.d.TestMyStockCode [main] TEA's 2 shares were bought at £2.0623669071396433
+2017-03-04 00:51:40,802 DEBUG c.s.d.TestMyStockCode [main] TEA's 2 shares were sold   at £6.317522749750944
+2017-03-04 00:51:40,802 DEBUG c.s.d.TestMyStockCode [main] TEA's 3 shares were bought at £1.643076546548019
+2017-03-04 00:51:40,803 DEBUG c.s.d.TestMyStockCode [main] TEA's 3 shares were sold   at £7.629788911368201
+2017-03-04 00:51:40,803 DEBUG c.s.d.TestMyStockCode [main] TEA's 4 shares were bought at £1.353657753877346
+2017-03-04 00:51:40,803 DEBUG c.s.d.TestMyStockCode [main] TEA's 4 shares were sold   at £7.628013336521715
+2017-03-04 00:51:40,803 DEBUG c.s.d.TestMyStockCode [main] TEA's 5 shares were bought at £5.086398739727736
+2017-03-04 00:51:40,804 DEBUG c.s.d.TestMyStockCode [main] TEA's 5 shares were sold   at £9.222446884506592
+2017-03-04 00:51:40,804 DEBUG c.s.d.TestMyStockCode [main] TEA's 6 shares were bought at £3.1493004403407787
+2017-03-04 00:51:40,804 DEBUG c.s.d.TestMyStockCode [main] TEA's 6 shares were sold   at £1.59052631925772
+2017-03-04 00:51:40,804 DEBUG c.s.d.TestMyStockCode [main] TEA's 7 shares were bought at £8.247470752779297
+2017-03-04 00:51:40,805 DEBUG c.s.d.TestMyStockCode [main] TEA's 7 shares were sold   at £4.323434892514155
+2017-03-04 00:51:40,805 DEBUG c.s.d.TestMyStockCode [main] TEA's 8 shares were bought at £2.1593297675668013
+2017-03-04 00:51:40,805 DEBUG c.s.d.TestMyStockCode [main] TEA's 8 shares were sold   at £7.756008691263765
+2017-03-04 00:51:40,805 DEBUG c.s.d.TestMyStockCode [main] TEA's 9 shares were bought at £5.544041864405841
+2017-03-04 00:51:40,806 DEBUG c.s.d.TestMyStockCode [main] TEA's 9 shares were sold   at £1.9811977354579093
+2017-03-04 00:51:40,806 DEBUG c.s.d.TestMyStockCode [main] TEA's 10 shares were bought at £1.9389273523349868
+2017-03-04 00:51:40,806 DEBUG c.s.d.TestMyStockCode [main] TEA's 10 shares were sold   at £9.084322450727859
+2017-03-04 00:51:40,806 DEBUG c.s.d.TestMyStockCode [main] ---------------------------------------------------------
+2017-03-04 00:51:40,806 DEBUG c.s.d.TestMyStockCode [main] TEA last traded price: £9.084322450727859
+2017-03-04 00:51:40,807 DEBUG c.s.d.TestMyStockCode [main] TEA 15 mnts stockPrice is : £7.1125403228232615
+2017-03-04 00:51:40,807 DEBUG c.s.d.TestMyStockCode [main] -------------------------- End of details for Stock ---- TEA
+2017-03-04 00:51:40,808 DEBUG c.s.d.TestMyStockCode [main]                                                                                         
+2017-03-04 00:51:40,808 DEBUG c.s.d.TestMyStockCode [main] -------------------------- details for Stock - JOE
+2017-03-04 00:51:40,808 DEBUG c.s.d.TestMyStockCode [main] JOE dividend: 1.4285714285714286
+2017-03-04 00:51:40,808 DEBUG c.s.d.TestMyStockCode [main] JOE P/E Ratio: 6.369999999999999
+2017-03-04 00:51:40,808 DEBUG c.s.d.TestMyStockCode [main] JOE's 1 shares were bought at £7.079479759052352
+2017-03-04 00:51:40,809 DEBUG c.s.d.TestMyStockCode [main] JOE's 1 shares were sold   at £3.718140584586112
+2017-03-04 00:51:40,809 DEBUG c.s.d.TestMyStockCode [main] JOE's 2 shares were bought at £4.095723025821777
+2017-03-04 00:51:40,809 DEBUG c.s.d.TestMyStockCode [main] JOE's 2 shares were sold   at £6.425114067810708
+2017-03-04 00:51:40,809 DEBUG c.s.d.TestMyStockCode [main] JOE's 3 shares were bought at £2.6793513110757696
+2017-03-04 00:51:40,809 DEBUG c.s.d.TestMyStockCode [main] JOE's 3 shares were sold   at £2.812390503333293
+2017-03-04 00:51:40,810 DEBUG c.s.d.TestMyStockCode [main] JOE's 4 shares were bought at £3.685687278082764
+2017-03-04 00:51:40,810 DEBUG c.s.d.TestMyStockCode [main] JOE's 4 shares were sold   at £1.7507283096085093
+2017-03-04 00:51:40,810 DEBUG c.s.d.TestMyStockCode [main] JOE's 5 shares were bought at £2.824582151436139
+2017-03-04 00:51:40,811 DEBUG c.s.d.TestMyStockCode [main] JOE's 5 shares were sold   at £2.751140757924737
+2017-03-04 00:51:40,811 DEBUG c.s.d.TestMyStockCode [main] JOE's 6 shares were bought at £3.9028225337143505
+2017-03-04 00:51:40,811 DEBUG c.s.d.TestMyStockCode [main] JOE's 6 shares were sold   at £8.671219169014154
+2017-03-04 00:51:40,811 DEBUG c.s.d.TestMyStockCode [main] JOE's 7 shares were bought at £9.787944205228902
+2017-03-04 00:51:40,812 DEBUG c.s.d.TestMyStockCode [main] JOE's 7 shares were sold   at £5.068542408721374
+2017-03-04 00:51:40,812 DEBUG c.s.d.TestMyStockCode [main] JOE's 8 shares were bought at £7.795683942754272
+2017-03-04 00:51:40,812 DEBUG c.s.d.TestMyStockCode [main] JOE's 8 shares were sold   at £6.807560742027227
+2017-03-04 00:51:40,812 DEBUG c.s.d.TestMyStockCode [main] JOE's 9 shares were bought at £6.785288036133299
+2017-03-04 00:51:40,812 DEBUG c.s.d.TestMyStockCode [main] JOE's 9 shares were sold   at £4.314883810704458
+2017-03-04 00:51:40,812 DEBUG c.s.d.TestMyStockCode [main] JOE's 10 shares were bought at £9.122375668108036
+2017-03-04 00:51:40,816 DEBUG c.s.d.TestMyStockCode [main] JOE's 10 shares were sold   at £1.1533621946076411
+2017-03-04 00:51:40,816 DEBUG c.s.d.TestMyStockCode [main] ---------------------------------------------------------
+2017-03-04 00:51:40,816 DEBUG c.s.d.TestMyStockCode [main] JOE last traded price: £1.1533621946076411
+2017-03-04 00:51:40,817 DEBUG c.s.d.TestMyStockCode [main] JOE 15 mnts stockPrice is : £4.663242708734426
+2017-03-04 00:51:40,817 DEBUG c.s.d.TestMyStockCode [main] -------------------------- End of details for Stock ---- JOE
+2017-03-04 00:51:40,817 DEBUG c.s.d.TestMyStockCode [main]                                                                                         
+2017-03-04 00:51:40,817 DEBUG c.s.d.TestMyStockCode [main] -------------------------- details for Stock - ALE
+2017-03-04 00:51:40,817 DEBUG c.s.d.TestMyStockCode [main] ALE dividend: 2.5274725274725274
+2017-03-04 00:51:40,817 DEBUG c.s.d.TestMyStockCode [main] ALE P/E Ratio: 3.6004347826086955
+2017-03-04 00:51:40,818 DEBUG c.s.d.TestMyStockCode [main] ALE's 1 shares were bought at £6.707636597507768
+2017-03-04 00:51:40,818 DEBUG c.s.d.TestMyStockCode [main] ALE's 1 shares were sold   at £2.506065530445354
+2017-03-04 00:51:40,818 DEBUG c.s.d.TestMyStockCode [main] ALE's 2 shares were bought at £9.097871985905133
+2017-03-04 00:51:40,818 DEBUG c.s.d.TestMyStockCode [main] ALE's 2 shares were sold   at £4.933415636345655
+2017-03-04 00:51:40,818 DEBUG c.s.d.TestMyStockCode [main] ALE's 3 shares were bought at £1.006736901539614
+2017-03-04 00:51:40,819 DEBUG c.s.d.TestMyStockCode [main] ALE's 3 shares were sold   at £5.771025050424233
+2017-03-04 00:51:40,819 DEBUG c.s.d.TestMyStockCode [main] ALE's 4 shares were bought at £6.92031163932987
+2017-03-04 00:51:40,819 DEBUG c.s.d.TestMyStockCode [main] ALE's 4 shares were sold   at £6.413774002625098
+2017-03-04 00:51:40,819 DEBUG c.s.d.TestMyStockCode [main] ALE's 5 shares were bought at £9.060270946984305
+2017-03-04 00:51:40,820 DEBUG c.s.d.TestMyStockCode [main] ALE's 5 shares were sold   at £1.0239417907106878
+2017-03-04 00:51:40,820 DEBUG c.s.d.TestMyStockCode [main] ALE's 6 shares were bought at £4.543730644499561
+2017-03-04 00:51:40,820 DEBUG c.s.d.TestMyStockCode [main] ALE's 6 shares were sold   at £5.154442066935995
+2017-03-04 00:51:40,821 DEBUG c.s.d.TestMyStockCode [main] ALE's 7 shares were bought at £6.552074055174832
+2017-03-04 00:51:40,821 DEBUG c.s.d.TestMyStockCode [main] ALE's 7 shares were sold   at £7.545303550301768
+2017-03-04 00:51:40,821 DEBUG c.s.d.TestMyStockCode [main] ALE's 8 shares were bought at £4.376590857410423
+2017-03-04 00:51:40,822 DEBUG c.s.d.TestMyStockCode [main] ALE's 8 shares were sold   at £4.5583640476657505
+2017-03-04 00:51:40,822 DEBUG c.s.d.TestMyStockCode [main] ALE's 9 shares were bought at £2.261746858872262
+2017-03-04 00:51:40,822 DEBUG c.s.d.TestMyStockCode [main] ALE's 9 shares were sold   at £7.540524394622659
+2017-03-04 00:51:40,822 DEBUG c.s.d.TestMyStockCode [main] ALE's 10 shares were bought at £8.808231223863679
+2017-03-04 00:51:40,822 DEBUG c.s.d.TestMyStockCode [main] ALE's 10 shares were sold   at £5.548433852526603
+2017-03-04 00:51:40,823 DEBUG c.s.d.TestMyStockCode [main] ---------------------------------------------------------
+2017-03-04 00:51:40,823 DEBUG c.s.d.TestMyStockCode [main] ALE last traded price: £5.548433852526603
+2017-03-04 00:51:40,823 DEBUG c.s.d.TestMyStockCode [main] ALE 15 mnts stockPrice is : £5.304540100803305
+2017-03-04 00:51:40,823 DEBUG c.s.d.TestMyStockCode [main] -------------------------- End of details for Stock ---- ALE
+2017-03-04 00:51:40,824 DEBUG c.s.d.TestMyStockCode [main]                                                                                         
+2017-03-04 00:51:40,824 DEBUG c.s.d.TestMyStockCode [main] -------------------------- details for Stock - GIN
+2017-03-04 00:51:40,824 DEBUG c.s.d.TestMyStockCode [main] GIN dividend: 0.21978021978021978
+2017-03-04 00:51:40,824 DEBUG c.s.d.TestMyStockCode [main] GIN P/E Ratio: 41.405
+2017-03-04 00:51:40,825 DEBUG c.s.d.TestMyStockCode [main] GIN's 1 shares were bought at £4.693655509852251
+2017-03-04 00:51:40,825 DEBUG c.s.d.TestMyStockCode [main] GIN's 1 shares were sold   at £6.701000035416297
+2017-03-04 00:51:40,825 DEBUG c.s.d.TestMyStockCode [main] GIN's 2 shares were bought at £7.797869526988351
+2017-03-04 00:51:40,825 DEBUG c.s.d.TestMyStockCode [main] GIN's 2 shares were sold   at £8.946436146827747
+2017-03-04 00:51:40,825 DEBUG c.s.d.TestMyStockCode [main] GIN's 3 shares were bought at £1.2366426178833465
+2017-03-04 00:51:40,825 DEBUG c.s.d.TestMyStockCode [main] GIN's 3 shares were sold   at £7.4583457476548976
+2017-03-04 00:51:40,826 DEBUG c.s.d.TestMyStockCode [main] GIN's 4 shares were bought at £3.5044662726778393
+2017-03-04 00:51:40,826 DEBUG c.s.d.TestMyStockCode [main] GIN's 4 shares were sold   at £6.507456472804102
+2017-03-04 00:51:40,827 DEBUG c.s.d.TestMyStockCode [main] GIN's 5 shares were bought at £1.4612206173095643
+2017-03-04 00:51:40,827 DEBUG c.s.d.TestMyStockCode [main] GIN's 5 shares were sold   at £8.474932093779085
+2017-03-04 00:51:40,827 DEBUG c.s.d.TestMyStockCode [main] GIN's 6 shares were bought at £1.301230265752367
+2017-03-04 00:51:40,828 DEBUG c.s.d.TestMyStockCode [main] GIN's 6 shares were sold   at £7.977625545108856
+2017-03-04 00:51:40,828 DEBUG c.s.d.TestMyStockCode [main] GIN's 7 shares were bought at £8.99113839994536
+2017-03-04 00:51:40,828 DEBUG c.s.d.TestMyStockCode [main] GIN's 7 shares were sold   at £4.40262065270036
+2017-03-04 00:51:40,828 DEBUG c.s.d.TestMyStockCode [main] GIN's 8 shares were bought at £2.839933958974367
+2017-03-04 00:51:40,829 DEBUG c.s.d.TestMyStockCode [main] GIN's 8 shares were sold   at £3.8626654174875195
+2017-03-04 00:51:40,829 DEBUG c.s.d.TestMyStockCode [main] GIN's 9 shares were bought at £4.831865983218835
+2017-03-04 00:51:40,829 DEBUG c.s.d.TestMyStockCode [main] GIN's 9 shares were sold   at £6.034417604667269
+2017-03-04 00:51:40,829 DEBUG c.s.d.TestMyStockCode [main] GIN's 10 shares were bought at £6.386184283462936
+2017-03-04 00:51:40,829 DEBUG c.s.d.TestMyStockCode [main] GIN's 10 shares were sold   at £7.77298075430811
+2017-03-04 00:51:40,830 DEBUG c.s.d.TestMyStockCode [main] ---------------------------------------------------------
+2017-03-04 00:51:40,830 DEBUG c.s.d.TestMyStockCode [main] GIN last traded price: £7.77298075430811
+2017-03-04 00:51:40,830 DEBUG c.s.d.TestMyStockCode [main] GIN 15 mnts stockPrice is : £5.0535975465668175
+2017-03-04 00:51:40,830 DEBUG c.s.d.TestMyStockCode [main] -------------------------- End of details for Stock ---- GIN
+2017-03-04 00:51:40,830 DEBUG c.s.d.TestMyStockCode [main]                                                                                         
+2017-03-04 00:51:40,832 DEBUG c.s.d.TestMyStockCode [main] the calculated All Share Index is  4.507313673668261
+2017-03-04 00:52:19,719 DEBUG c.s.d.TestMyStockCode [main] -------------------------- details for Stock - POP
+2017-03-04 00:52:19,723 DEBUG c.s.d.TestMyStockCode [main] POP dividend: 0.8791208791208791
+2017-03-04 00:52:19,723 DEBUG c.s.d.TestMyStockCode [main] POP P/E Ratio: 10.35125
+2017-03-04 00:52:19,726 DEBUG c.s.d.TestMyStockCode [main] POP's 1 shares were bought at £1.0117995047857886
+2017-03-04 00:52:19,727 DEBUG c.s.d.TestMyStockCode [main] POP's 1 shares were sold   at £3.7299992505082264
+2017-03-04 00:52:19,727 DEBUG c.s.d.TestMyStockCode [main] POP's 2 shares were bought at £7.827048690705414
+2017-03-04 00:52:19,727 DEBUG c.s.d.TestMyStockCode [main] POP's 2 shares were sold   at £7.894114625053228
+2017-03-04 00:52:19,728 DEBUG c.s.d.TestMyStockCode [main] POP's 3 shares were bought at £6.990094736766086
+2017-03-04 00:52:19,728 DEBUG c.s.d.TestMyStockCode [main] POP's 3 shares were sold   at £4.04176448139008
+2017-03-04 00:52:19,728 DEBUG c.s.d.TestMyStockCode [main] POP's 4 shares were bought at £5.020469193360739
+2017-03-04 00:52:19,728 DEBUG c.s.d.TestMyStockCode [main] POP's 4 shares were sold   at £5.337370101870379
+2017-03-04 00:52:19,729 DEBUG c.s.d.TestMyStockCode [main] POP's 5 shares were bought at £5.080141676871843
+2017-03-04 00:52:19,729 DEBUG c.s.d.TestMyStockCode [main] POP's 5 shares were sold   at £2.3885153501486576
+2017-03-04 00:52:19,729 DEBUG c.s.d.TestMyStockCode [main] POP's 6 shares were bought at £5.70790248860718
+2017-03-04 00:52:19,729 DEBUG c.s.d.TestMyStockCode [main] POP's 6 shares were sold   at £6.6347074547073195
+2017-03-04 00:52:19,729 DEBUG c.s.d.TestMyStockCode [main] POP's 7 shares were bought at £9.591375775064867
+2017-03-04 00:52:19,730 DEBUG c.s.d.TestMyStockCode [main] POP's 7 shares were sold   at £7.834918865840127
+2017-03-04 00:52:19,730 DEBUG c.s.d.TestMyStockCode [main] POP's 8 shares were bought at £3.762484056092321
+2017-03-04 00:52:19,730 DEBUG c.s.d.TestMyStockCode [main] POP's 8 shares were sold   at £4.713772423994291
+2017-03-04 00:52:19,730 DEBUG c.s.d.TestMyStockCode [main] POP's 9 shares were bought at £1.7631803297892366
+2017-03-04 00:52:19,730 DEBUG c.s.d.TestMyStockCode [main] POP's 9 shares were sold   at £7.703830161984466
+2017-03-04 00:52:19,730 DEBUG c.s.d.TestMyStockCode [main] POP's 10 shares were bought at £8.785927523707194
+2017-03-04 00:52:19,731 DEBUG c.s.d.TestMyStockCode [main] POP's 10 shares were sold   at £5.641134654924836
+2017-03-04 00:52:19,731 DEBUG c.s.d.TestMyStockCode [main] ---------------------------------------------------------
+2017-03-04 00:52:19,731 DEBUG c.s.d.TestMyStockCode [main] POP last traded price: £5.641134654924836
+2017-03-04 00:52:19,734 DEBUG c.s.d.TestMyStockCode [main] POP 15 mnts stockPrice is : £7.339992981592593
+2017-03-04 00:52:19,734 DEBUG c.s.d.TestMyStockCode [main] -------------------------- End of details for Stock ---- POP
+2017-03-04 00:52:19,734 DEBUG c.s.d.TestMyStockCode [main]                                                                                         
+2017-03-04 00:52:19,734 DEBUG c.s.d.TestMyStockCode [main] -------------------------- details for Stock - TEA
+2017-03-04 00:52:19,735 DEBUG c.s.d.TestMyStockCode [main] TEA dividend: 0.0
+2017-03-04 00:52:19,735 DEBUG c.s.d.TestMyStockCode [main] TEA P/E Ratio: Infinity
+2017-03-04 00:52:19,735 DEBUG c.s.d.TestMyStockCode [main] TEA's 1 shares were bought at £4.409301837381241
+2017-03-04 00:52:19,735 DEBUG c.s.d.TestMyStockCode [main] TEA's 1 shares were sold   at £6.525753656414407
+2017-03-04 00:52:19,735 DEBUG c.s.d.TestMyStockCode [main] TEA's 2 shares were bought at £9.407769676609378
+2017-03-04 00:52:19,736 DEBUG c.s.d.TestMyStockCode [main] TEA's 2 shares were sold   at £1.6887458867699832
+2017-03-04 00:52:19,736 DEBUG c.s.d.TestMyStockCode [main] TEA's 3 shares were bought at £4.295950176590251
+2017-03-04 00:52:19,736 DEBUG c.s.d.TestMyStockCode [main] TEA's 3 shares were sold   at £8.298273039058783
+2017-03-04 00:52:19,736 DEBUG c.s.d.TestMyStockCode [main] TEA's 4 shares were bought at £2.9695405826741563
+2017-03-04 00:52:19,737 DEBUG c.s.d.TestMyStockCode [main] TEA's 4 shares were sold   at £8.377373186971731
+2017-03-04 00:52:19,737 DEBUG c.s.d.TestMyStockCode [main] TEA's 5 shares were bought at £7.02603633699309
+2017-03-04 00:52:19,737 DEBUG c.s.d.TestMyStockCode [main] TEA's 5 shares were sold   at £5.4063532160636765
+2017-03-04 00:52:19,737 DEBUG c.s.d.TestMyStockCode [main] TEA's 6 shares were bought at £6.427537636680596
+2017-03-04 00:52:19,737 DEBUG c.s.d.TestMyStockCode [main] TEA's 6 shares were sold   at £5.736693682707925
+2017-03-04 00:52:19,738 DEBUG c.s.d.TestMyStockCode [main] TEA's 7 shares were bought at £3.9422930127898406
+2017-03-04 00:52:19,738 DEBUG c.s.d.TestMyStockCode [main] TEA's 7 shares were sold   at £1.4218278554365198
+2017-03-04 00:52:19,738 DEBUG c.s.d.TestMyStockCode [main] TEA's 8 shares were bought at £5.035619089632816
+2017-03-04 00:52:19,738 DEBUG c.s.d.TestMyStockCode [main] TEA's 8 shares were sold   at £4.85241236694484
+2017-03-04 00:52:19,738 DEBUG c.s.d.TestMyStockCode [main] TEA's 9 shares were bought at £2.706459954945596
+2017-03-04 00:52:19,739 DEBUG c.s.d.TestMyStockCode [main] TEA's 9 shares were sold   at £8.711341603853814
+2017-03-04 00:52:19,739 DEBUG c.s.d.TestMyStockCode [main] TEA's 10 shares were bought at £8.668881083159018
+2017-03-04 00:52:19,739 DEBUG c.s.d.TestMyStockCode [main] TEA's 10 shares were sold   at £9.117765474172005
+2017-03-04 00:52:19,739 DEBUG c.s.d.TestMyStockCode [main] ---------------------------------------------------------
+2017-03-04 00:52:19,739 DEBUG c.s.d.TestMyStockCode [main] TEA last traded price: £9.117765474172005
+2017-03-04 00:52:19,739 DEBUG c.s.d.TestMyStockCode [main] TEA 15 mnts stockPrice is : £7.570761063115075
+2017-03-04 00:52:19,740 DEBUG c.s.d.TestMyStockCode [main] -------------------------- End of details for Stock ---- TEA
+2017-03-04 00:52:19,740 DEBUG c.s.d.TestMyStockCode [main]                                                                                         
+2017-03-04 00:52:19,740 DEBUG c.s.d.TestMyStockCode [main] -------------------------- details for Stock - JOE
+2017-03-04 00:52:19,740 DEBUG c.s.d.TestMyStockCode [main] JOE dividend: 1.4285714285714286
+2017-03-04 00:52:19,740 DEBUG c.s.d.TestMyStockCode [main] JOE P/E Ratio: 6.369999999999999
+2017-03-04 00:52:19,741 DEBUG c.s.d.TestMyStockCode [main] JOE's 1 shares were bought at £2.197642928031909
+2017-03-04 00:52:19,741 DEBUG c.s.d.TestMyStockCode [main] JOE's 1 shares were sold   at £8.255736533032099
+2017-03-04 00:52:19,741 DEBUG c.s.d.TestMyStockCode [main] JOE's 2 shares were bought at £9.091467291049833
+2017-03-04 00:52:19,741 DEBUG c.s.d.TestMyStockCode [main] JOE's 2 shares were sold   at £9.080156900424143
+2017-03-04 00:52:19,742 DEBUG c.s.d.TestMyStockCode [main] JOE's 3 shares were bought at £3.8413854754105023
+2017-03-04 00:52:19,742 DEBUG c.s.d.TestMyStockCode [main] JOE's 3 shares were sold   at £2.118999851533376
+2017-03-04 00:52:19,742 DEBUG c.s.d.TestMyStockCode [main] JOE's 4 shares were bought at £3.498298496865875
+2017-03-04 00:52:19,742 DEBUG c.s.d.TestMyStockCode [main] JOE's 4 shares were sold   at £6.103874133698724
+2017-03-04 00:52:19,742 DEBUG c.s.d.TestMyStockCode [main] JOE's 5 shares were bought at £5.64079166734571
+2017-03-04 00:52:19,742 DEBUG c.s.d.TestMyStockCode [main] JOE's 5 shares were sold   at £7.610051785187919
+2017-03-04 00:52:19,743 DEBUG c.s.d.TestMyStockCode [main] JOE's 6 shares were bought at £5.264117391201054
+2017-03-04 00:52:19,743 DEBUG c.s.d.TestMyStockCode [main] JOE's 6 shares were sold   at £2.7056536280376315
+2017-03-04 00:52:19,743 DEBUG c.s.d.TestMyStockCode [main] JOE's 7 shares were bought at £3.721838276180886
+2017-03-04 00:52:19,743 DEBUG c.s.d.TestMyStockCode [main] JOE's 7 shares were sold   at £1.6344166608100221
+2017-03-04 00:52:19,744 DEBUG c.s.d.TestMyStockCode [main] JOE's 8 shares were bought at £9.210621262539656
+2017-03-04 00:52:19,744 DEBUG c.s.d.TestMyStockCode [main] JOE's 8 shares were sold   at £8.362135741374521
+2017-03-04 00:52:19,744 DEBUG c.s.d.TestMyStockCode [main] JOE's 9 shares were bought at £1.6146553444087446
+2017-03-04 00:52:19,744 DEBUG c.s.d.TestMyStockCode [main] JOE's 9 shares were sold   at £7.087335842956237
+2017-03-04 00:52:19,745 DEBUG c.s.d.TestMyStockCode [main] JOE's 10 shares were bought at £7.254690257262609
+2017-03-04 00:52:19,748 DEBUG c.s.d.TestMyStockCode [main] JOE's 10 shares were sold   at £5.234334966187633
+2017-03-04 00:52:19,748 DEBUG c.s.d.TestMyStockCode [main] ---------------------------------------------------------
+2017-03-04 00:52:19,748 DEBUG c.s.d.TestMyStockCode [main] JOE last traded price: £5.234334966187633
+2017-03-04 00:52:19,748 DEBUG c.s.d.TestMyStockCode [main] JOE 15 mnts stockPrice is : £6.931903561635487
+2017-03-04 00:52:19,748 DEBUG c.s.d.TestMyStockCode [main] -------------------------- End of details for Stock ---- JOE
+2017-03-04 00:52:19,748 DEBUG c.s.d.TestMyStockCode [main]                                                                                         
+2017-03-04 00:52:19,749 DEBUG c.s.d.TestMyStockCode [main] -------------------------- details for Stock - ALE
+2017-03-04 00:52:19,749 DEBUG c.s.d.TestMyStockCode [main] ALE dividend: 2.5274725274725274
+2017-03-04 00:52:19,749 DEBUG c.s.d.TestMyStockCode [main] ALE P/E Ratio: 3.6004347826086955
+2017-03-04 00:52:19,749 DEBUG c.s.d.TestMyStockCode [main] ALE's 1 shares were bought at £6.792589150392065
+2017-03-04 00:52:19,749 DEBUG c.s.d.TestMyStockCode [main] ALE's 1 shares were sold   at £1.4147383230524375
+2017-03-04 00:52:19,750 DEBUG c.s.d.TestMyStockCode [main] ALE's 2 shares were bought at £4.738413975568308
+2017-03-04 00:52:19,750 DEBUG c.s.d.TestMyStockCode [main] ALE's 2 shares were sold   at £8.459937394618958
+2017-03-04 00:52:19,750 DEBUG c.s.d.TestMyStockCode [main] ALE's 3 shares were bought at £1.7549939142862812
+2017-03-04 00:52:19,750 DEBUG c.s.d.TestMyStockCode [main] ALE's 3 shares were sold   at £5.789662513607866
+2017-03-04 00:52:19,750 DEBUG c.s.d.TestMyStockCode [main] ALE's 4 shares were bought at £6.694358366306248
+2017-03-04 00:52:19,750 DEBUG c.s.d.TestMyStockCode [main] ALE's 4 shares were sold   at £7.650091167365147
+2017-03-04 00:52:19,751 DEBUG c.s.d.TestMyStockCode [main] ALE's 5 shares were bought at £4.372964246534749
+2017-03-04 00:52:19,751 DEBUG c.s.d.TestMyStockCode [main] ALE's 5 shares were sold   at £2.0409563505236816
+2017-03-04 00:52:19,751 DEBUG c.s.d.TestMyStockCode [main] ALE's 6 shares were bought at £8.592827337204284
+2017-03-04 00:52:19,751 DEBUG c.s.d.TestMyStockCode [main] ALE's 6 shares were sold   at £4.479515867817536
+2017-03-04 00:52:19,751 DEBUG c.s.d.TestMyStockCode [main] ALE's 7 shares were bought at £5.020616963959844
+2017-03-04 00:52:19,751 DEBUG c.s.d.TestMyStockCode [main] ALE's 7 shares were sold   at £2.6189451495429257
+2017-03-04 00:52:19,753 DEBUG c.s.d.TestMyStockCode [main] ALE's 8 shares were bought at £6.631656010224325
+2017-03-04 00:52:19,753 DEBUG c.s.d.TestMyStockCode [main] ALE's 8 shares were sold   at £4.280324466091919
+2017-03-04 00:52:19,753 DEBUG c.s.d.TestMyStockCode [main] ALE's 9 shares were bought at £2.382722514910982
+2017-03-04 00:52:19,754 DEBUG c.s.d.TestMyStockCode [main] ALE's 9 shares were sold   at £5.859276085080214
+2017-03-04 00:52:19,754 DEBUG c.s.d.TestMyStockCode [main] ALE's 10 shares were bought at £1.9160631949405973
+2017-03-04 00:52:19,754 DEBUG c.s.d.TestMyStockCode [main] ALE's 10 shares were sold   at £3.3032310052958866
+2017-03-04 00:52:19,754 DEBUG c.s.d.TestMyStockCode [main] ---------------------------------------------------------
+2017-03-04 00:52:19,754 DEBUG c.s.d.TestMyStockCode [main] ALE last traded price: £3.3032310052958866
+2017-03-04 00:52:19,755 DEBUG c.s.d.TestMyStockCode [main] ALE 15 mnts stockPrice is : £4.048148200211944
+2017-03-04 00:52:19,755 DEBUG c.s.d.TestMyStockCode [main] -------------------------- End of details for Stock ---- ALE
+2017-03-04 00:52:19,755 DEBUG c.s.d.TestMyStockCode [main]                                                                                         
+2017-03-04 00:52:19,755 DEBUG c.s.d.TestMyStockCode [main] -------------------------- details for Stock - GIN
+2017-03-04 00:52:19,755 DEBUG c.s.d.TestMyStockCode [main] GIN dividend: 0.21978021978021978
+2017-03-04 00:52:19,755 DEBUG c.s.d.TestMyStockCode [main] GIN P/E Ratio: 41.405
+2017-03-04 00:52:19,756 DEBUG c.s.d.TestMyStockCode [main] GIN's 1 shares were bought at £2.119729694188926
+2017-03-04 00:52:19,756 DEBUG c.s.d.TestMyStockCode [main] GIN's 1 shares were sold   at £5.999052423422487
+2017-03-04 00:52:19,756 DEBUG c.s.d.TestMyStockCode [main] GIN's 2 shares were bought at £1.247503181511601
+2017-03-04 00:52:19,756 DEBUG c.s.d.TestMyStockCode [main] GIN's 2 shares were sold   at £7.889239125013172
+2017-03-04 00:52:19,756 DEBUG c.s.d.TestMyStockCode [main] GIN's 3 shares were bought at £4.130611305417435
+2017-03-04 00:52:19,757 DEBUG c.s.d.TestMyStockCode [main] GIN's 3 shares were sold   at £2.127158068052414
+2017-03-04 00:52:19,757 DEBUG c.s.d.TestMyStockCode [main] GIN's 4 shares were bought at £2.3551864562589166
+2017-03-04 00:52:19,757 DEBUG c.s.d.TestMyStockCode [main] GIN's 4 shares were sold   at £6.23408502310807
+2017-03-04 00:52:19,757 DEBUG c.s.d.TestMyStockCode [main] GIN's 5 shares were bought at £6.181833265628569
+2017-03-04 00:52:19,757 DEBUG c.s.d.TestMyStockCode [main] GIN's 5 shares were sold   at £9.077222349435626
+2017-03-04 00:52:19,758 DEBUG c.s.d.TestMyStockCode [main] GIN's 6 shares were bought at £7.975187566901488
+2017-03-04 00:52:19,758 DEBUG c.s.d.TestMyStockCode [main] GIN's 6 shares were sold   at £4.932060408316255
+2017-03-04 00:52:19,758 DEBUG c.s.d.TestMyStockCode [main] GIN's 7 shares were bought at £4.155672922082525
+2017-03-04 00:52:19,758 DEBUG c.s.d.TestMyStockCode [main] GIN's 7 shares were sold   at £2.668244418989935
+2017-03-04 00:52:19,759 DEBUG c.s.d.TestMyStockCode [main] GIN's 8 shares were bought at £6.840216991382251
+2017-03-04 00:52:19,759 DEBUG c.s.d.TestMyStockCode [main] GIN's 8 shares were sold   at £5.22491692717472
+2017-03-04 00:52:19,759 DEBUG c.s.d.TestMyStockCode [main] GIN's 9 shares were bought at £6.413403369523888
+2017-03-04 00:52:19,759 DEBUG c.s.d.TestMyStockCode [main] GIN's 9 shares were sold   at £3.1323157272252855
+2017-03-04 00:52:19,759 DEBUG c.s.d.TestMyStockCode [main] GIN's 10 shares were bought at £4.834408259301819
+2017-03-04 00:52:19,759 DEBUG c.s.d.TestMyStockCode [main] GIN's 10 shares were sold   at £2.3791981766855623
+2017-03-04 00:52:19,760 DEBUG c.s.d.TestMyStockCode [main] ---------------------------------------------------------
+2017-03-04 00:52:19,760 DEBUG c.s.d.TestMyStockCode [main] GIN last traded price: £2.3791981766855623
+2017-03-04 00:52:19,760 DEBUG c.s.d.TestMyStockCode [main] GIN 15 mnts stockPrice is : £3.9504866160556307
+2017-03-04 00:52:19,760 DEBUG c.s.d.TestMyStockCode [main] -------------------------- End of details for Stock ---- GIN
+2017-03-04 00:52:19,760 DEBUG c.s.d.TestMyStockCode [main]                                                                                         
+2017-03-04 00:52:19,762 DEBUG c.s.d.TestMyStockCode [main] the calculated All Share Index is  4.6248451050672195
+2017-03-04 00:53:34,142 DEBUG c.s.d.TestMyStockCode [main] -------------------------- details for Stock - POP
+2017-03-04 00:53:34,147 DEBUG c.s.d.TestMyStockCode [main] POP dividend: 0.8791208791208791
+2017-03-04 00:53:34,147 DEBUG c.s.d.TestMyStockCode [main] POP P/E Ratio: 10.35125
+2017-03-04 00:53:34,151 DEBUG c.s.d.TestMyStockCode [main] POP's 1 shares were bought at £7.4305839325187435
+2017-03-04 00:53:34,151 DEBUG c.s.d.TestMyStockCode [main] POP's 1 shares were sold   at £7.413704512972186
+2017-03-04 00:53:34,151 DEBUG c.s.d.TestMyStockCode [main] POP's 2 shares were bought at £7.162024942899664
+2017-03-04 00:53:34,151 DEBUG c.s.d.TestMyStockCode [main] POP's 2 shares were sold   at £8.377764487373698
+2017-03-04 00:53:34,152 DEBUG c.s.d.TestMyStockCode [main] POP's 3 shares were bought at £9.539364378798139
+2017-03-04 00:53:34,152 DEBUG c.s.d.TestMyStockCode [main] POP's 3 shares were sold   at £3.900851678766726
+2017-03-04 00:53:34,152 DEBUG c.s.d.TestMyStockCode [main] POP's 4 shares were bought at £1.4480963045897641
+2017-03-04 00:53:34,152 DEBUG c.s.d.TestMyStockCode [main] POP's 4 shares were sold   at £9.667767248634751
+2017-03-04 00:53:34,153 DEBUG c.s.d.TestMyStockCode [main] POP's 5 shares were bought at £5.566220447363028
+2017-03-04 00:53:34,153 DEBUG c.s.d.TestMyStockCode [main] POP's 5 shares were sold   at £2.6109430686518107
+2017-03-04 00:53:34,153 DEBUG c.s.d.TestMyStockCode [main] POP's 6 shares were bought at £6.253028664440787
+2017-03-04 00:53:34,153 DEBUG c.s.d.TestMyStockCode [main] POP's 6 shares were sold   at £6.4281275772408755
+2017-03-04 00:53:34,154 DEBUG c.s.d.TestMyStockCode [main] POP's 7 shares were bought at £4.87030640466492
+2017-03-04 00:53:34,154 DEBUG c.s.d.TestMyStockCode [main] POP's 7 shares were sold   at £2.1349249858942088
+2017-03-04 00:53:34,154 DEBUG c.s.d.TestMyStockCode [main] POP's 8 shares were bought at £6.449895942036037
+2017-03-04 00:53:34,154 DEBUG c.s.d.TestMyStockCode [main] POP's 8 shares were sold   at £6.652353437687158
+2017-03-04 00:53:34,154 DEBUG c.s.d.TestMyStockCode [main] POP's 9 shares were bought at £7.3042328136432415
+2017-03-04 00:53:34,155 DEBUG c.s.d.TestMyStockCode [main] POP's 9 shares were sold   at £8.291969075123589
+2017-03-04 00:53:34,155 DEBUG c.s.d.TestMyStockCode [main] POP's 10 shares were bought at £9.019819439270865
+2017-03-04 00:53:34,155 DEBUG c.s.d.TestMyStockCode [main] POP's 10 shares were sold   at £4.300927398850461
+2017-03-04 00:53:34,155 DEBUG c.s.d.TestMyStockCode [main] ---------------------------------------------------------
+2017-03-04 00:53:34,156 DEBUG c.s.d.TestMyStockCode [main] POP last traded price: £4.300927398850461
+2017-03-04 00:53:34,159 DEBUG c.s.d.TestMyStockCode [main] POP 15 mnts stockPrice is : £6.567916146142006
+2017-03-04 00:53:34,159 DEBUG c.s.d.TestMyStockCode [main] -------------------------- End of details for Stock ---- POP
+2017-03-04 00:53:34,159 DEBUG c.s.d.TestMyStockCode [main]                                                                                         
+2017-03-04 00:53:34,159 DEBUG c.s.d.TestMyStockCode [main]                                                                                         
+2017-03-04 00:53:34,159 DEBUG c.s.d.TestMyStockCode [main] -------------------------- details for Stock - TEA
+2017-03-04 00:53:34,160 DEBUG c.s.d.TestMyStockCode [main] TEA dividend: 0.0
+2017-03-04 00:53:34,160 DEBUG c.s.d.TestMyStockCode [main] TEA P/E Ratio: Infinity
+2017-03-04 00:53:34,160 DEBUG c.s.d.TestMyStockCode [main] TEA's 1 shares were bought at £6.044697096361265
+2017-03-04 00:53:34,161 DEBUG c.s.d.TestMyStockCode [main] TEA's 1 shares were sold   at £3.391106287410551
+2017-03-04 00:53:34,161 DEBUG c.s.d.TestMyStockCode [main] TEA's 2 shares were bought at £4.167211351133439
+2017-03-04 00:53:34,161 DEBUG c.s.d.TestMyStockCode [main] TEA's 2 shares were sold   at £9.96360347136269
+2017-03-04 00:53:34,161 DEBUG c.s.d.TestMyStockCode [main] TEA's 3 shares were bought at £6.389605091555117
+2017-03-04 00:53:34,161 DEBUG c.s.d.TestMyStockCode [main] TEA's 3 shares were sold   at £9.55701700120554
+2017-03-04 00:53:34,162 DEBUG c.s.d.TestMyStockCode [main] TEA's 4 shares were bought at £8.799250924916503
+2017-03-04 00:53:34,162 DEBUG c.s.d.TestMyStockCode [main] TEA's 4 shares were sold   at £2.793445596356058
+2017-03-04 00:53:34,162 DEBUG c.s.d.TestMyStockCode [main] TEA's 5 shares were bought at £1.6575611428305583
+2017-03-04 00:53:34,162 DEBUG c.s.d.TestMyStockCode [main] TEA's 5 shares were sold   at £5.672013286397884
+2017-03-04 00:53:34,162 DEBUG c.s.d.TestMyStockCode [main] TEA's 6 shares were bought at £9.47132491103347
+2017-03-04 00:53:34,163 DEBUG c.s.d.TestMyStockCode [main] TEA's 6 shares were sold   at £7.411686676115706
+2017-03-04 00:53:34,163 DEBUG c.s.d.TestMyStockCode [main] TEA's 7 shares were bought at £4.164365863628514
+2017-03-04 00:53:34,163 DEBUG c.s.d.TestMyStockCode [main] TEA's 7 shares were sold   at £6.4485924129793455
+2017-03-04 00:53:34,163 DEBUG c.s.d.TestMyStockCode [main] TEA's 8 shares were bought at £2.384865623740186
+2017-03-04 00:53:34,164 DEBUG c.s.d.TestMyStockCode [main] TEA's 8 shares were sold   at £4.747376491651046
+2017-03-04 00:53:34,164 DEBUG c.s.d.TestMyStockCode [main] TEA's 9 shares were bought at £5.892243654542394
+2017-03-04 00:53:34,164 DEBUG c.s.d.TestMyStockCode [main] TEA's 9 shares were sold   at £4.523319557533093
+2017-03-04 00:53:34,164 DEBUG c.s.d.TestMyStockCode [main] TEA's 10 shares were bought at £1.51730044150537
+2017-03-04 00:53:34,164 DEBUG c.s.d.TestMyStockCode [main] TEA's 10 shares were sold   at £7.868425500077432
+2017-03-04 00:53:34,165 DEBUG c.s.d.TestMyStockCode [main] ---------------------------------------------------------
+2017-03-04 00:53:34,165 DEBUG c.s.d.TestMyStockCode [main] TEA last traded price: £7.868425500077432
+2017-03-04 00:53:34,165 DEBUG c.s.d.TestMyStockCode [main] TEA 15 mnts stockPrice is : £6.66618881242585
+2017-03-04 00:53:34,165 DEBUG c.s.d.TestMyStockCode [main] -------------------------- End of details for Stock ---- TEA
+2017-03-04 00:53:34,166 DEBUG c.s.d.TestMyStockCode [main]                                                                                         
+2017-03-04 00:53:34,166 DEBUG c.s.d.TestMyStockCode [main]                                                                                         
+2017-03-04 00:53:34,166 DEBUG c.s.d.TestMyStockCode [main] -------------------------- details for Stock - JOE
+2017-03-04 00:53:34,166 DEBUG c.s.d.TestMyStockCode [main] JOE dividend: 1.4285714285714286
+2017-03-04 00:53:34,166 DEBUG c.s.d.TestMyStockCode [main] JOE P/E Ratio: 6.369999999999999
+2017-03-04 00:53:34,167 DEBUG c.s.d.TestMyStockCode [main] JOE's 1 shares were bought at £1.619031195878389
+2017-03-04 00:53:34,167 DEBUG c.s.d.TestMyStockCode [main] JOE's 1 shares were sold   at £9.86923885190083
+2017-03-04 00:53:34,168 DEBUG c.s.d.TestMyStockCode [main] JOE's 2 shares were bought at £8.442155917893244
+2017-03-04 00:53:34,168 DEBUG c.s.d.TestMyStockCode [main] JOE's 2 shares were sold   at £2.042097068821109
+2017-03-04 00:53:34,168 DEBUG c.s.d.TestMyStockCode [main] JOE's 3 shares were bought at £4.621800698105627
+2017-03-04 00:53:34,168 DEBUG c.s.d.TestMyStockCode [main] JOE's 3 shares were sold   at £5.872522364960455
+2017-03-04 00:53:34,168 DEBUG c.s.d.TestMyStockCode [main] JOE's 4 shares were bought at £1.9572677167048984
+2017-03-04 00:53:34,169 DEBUG c.s.d.TestMyStockCode [main] JOE's 4 shares were sold   at £7.808133237905897
+2017-03-04 00:53:34,169 DEBUG c.s.d.TestMyStockCode [main] JOE's 5 shares were bought at £5.897645019769749
+2017-03-04 00:53:34,169 DEBUG c.s.d.TestMyStockCode [main] JOE's 5 shares were sold   at £9.603621808038433
+2017-03-04 00:53:34,169 DEBUG c.s.d.TestMyStockCode [main] JOE's 6 shares were bought at £3.729590026524551
+2017-03-04 00:53:34,170 DEBUG c.s.d.TestMyStockCode [main] JOE's 6 shares were sold   at £2.1403131953584302
+2017-03-04 00:53:34,170 DEBUG c.s.d.TestMyStockCode [main] JOE's 7 shares were bought at £4.816983906783035
+2017-03-04 00:53:34,171 DEBUG c.s.d.TestMyStockCode [main] JOE's 7 shares were sold   at £8.380553678500824
+2017-03-04 00:53:34,171 DEBUG c.s.d.TestMyStockCode [main] JOE's 8 shares were bought at £8.103268580458348
+2017-03-04 00:53:34,171 DEBUG c.s.d.TestMyStockCode [main] JOE's 8 shares were sold   at £9.376436132005315
+2017-03-04 00:53:34,171 DEBUG c.s.d.TestMyStockCode [main] JOE's 9 shares were bought at £3.902530108983781
+2017-03-04 00:53:34,171 DEBUG c.s.d.TestMyStockCode [main] JOE's 9 shares were sold   at £7.776919475841616
+2017-03-04 00:53:34,175 DEBUG c.s.d.TestMyStockCode [main] JOE's 10 shares were bought at £4.4013012553184705
+2017-03-04 00:53:34,175 DEBUG c.s.d.TestMyStockCode [main] JOE's 10 shares were sold   at £3.2769249506313263
+2017-03-04 00:53:34,175 DEBUG c.s.d.TestMyStockCode [main] ---------------------------------------------------------
+2017-03-04 00:53:34,175 DEBUG c.s.d.TestMyStockCode [main] JOE last traded price: £3.2769249506313263
+2017-03-04 00:53:34,176 DEBUG c.s.d.TestMyStockCode [main] JOE 15 mnts stockPrice is : £5.445979740980036
+2017-03-04 00:53:34,176 DEBUG c.s.d.TestMyStockCode [main] -------------------------- End of details for Stock ---- JOE
+2017-03-04 00:53:34,176 DEBUG c.s.d.TestMyStockCode [main]                                                                                         
+2017-03-04 00:53:34,176 DEBUG c.s.d.TestMyStockCode [main]                                                                                         
+2017-03-04 00:53:34,176 DEBUG c.s.d.TestMyStockCode [main] -------------------------- details for Stock - ALE
+2017-03-04 00:53:34,177 DEBUG c.s.d.TestMyStockCode [main] ALE dividend: 2.5274725274725274
+2017-03-04 00:53:34,177 DEBUG c.s.d.TestMyStockCode [main] ALE P/E Ratio: 3.6004347826086955
+2017-03-04 00:53:34,177 DEBUG c.s.d.TestMyStockCode [main] ALE's 1 shares were bought at £6.6485499312681
+2017-03-04 00:53:34,177 DEBUG c.s.d.TestMyStockCode [main] ALE's 1 shares were sold   at £9.706415630766756
+2017-03-04 00:53:34,177 DEBUG c.s.d.TestMyStockCode [main] ALE's 2 shares were bought at £9.552385801013491
+2017-03-04 00:53:34,177 DEBUG c.s.d.TestMyStockCode [main] ALE's 2 shares were sold   at £4.239204844594463
+2017-03-04 00:53:34,178 DEBUG c.s.d.TestMyStockCode [main] ALE's 3 shares were bought at £8.266979886820357
+2017-03-04 00:53:34,178 DEBUG c.s.d.TestMyStockCode [main] ALE's 3 shares were sold   at £4.377907417859408
+2017-03-04 00:53:34,178 DEBUG c.s.d.TestMyStockCode [main] ALE's 4 shares were bought at £3.8346037368298034
+2017-03-04 00:53:34,178 DEBUG c.s.d.TestMyStockCode [main] ALE's 4 shares were sold   at £4.785381480435772
+2017-03-04 00:53:34,179 DEBUG c.s.d.TestMyStockCode [main] ALE's 5 shares were bought at £1.9188762441263356
+2017-03-04 00:53:34,179 DEBUG c.s.d.TestMyStockCode [main] ALE's 5 shares were sold   at £6.815661344778608
+2017-03-04 00:53:34,179 DEBUG c.s.d.TestMyStockCode [main] ALE's 6 shares were bought at £1.0906261257185137
+2017-03-04 00:53:34,179 DEBUG c.s.d.TestMyStockCode [main] ALE's 6 shares were sold   at £6.226342277220955
+2017-03-04 00:53:34,180 DEBUG c.s.d.TestMyStockCode [main] ALE's 7 shares were bought at £9.5439318234946
+2017-03-04 00:53:34,180 DEBUG c.s.d.TestMyStockCode [main] ALE's 7 shares were sold   at £8.296650523340622
+2017-03-04 00:53:34,180 DEBUG c.s.d.TestMyStockCode [main] ALE's 8 shares were bought at £6.8145071873723255
+2017-03-04 00:53:34,180 DEBUG c.s.d.TestMyStockCode [main] ALE's 8 shares were sold   at £9.919442719323555
+2017-03-04 00:53:34,180 DEBUG c.s.d.TestMyStockCode [main] ALE's 9 shares were bought at £5.034178532394472
+2017-03-04 00:53:34,181 DEBUG c.s.d.TestMyStockCode [main] ALE's 9 shares were sold   at £6.969116929671963
+2017-03-04 00:53:34,181 DEBUG c.s.d.TestMyStockCode [main] ALE's 10 shares were bought at £1.3937548361098742
+2017-03-04 00:53:34,181 DEBUG c.s.d.TestMyStockCode [main] ALE's 10 shares were sold   at £9.349530917649915
+2017-03-04 00:53:34,181 DEBUG c.s.d.TestMyStockCode [main] ---------------------------------------------------------
+2017-03-04 00:53:34,182 DEBUG c.s.d.TestMyStockCode [main] ALE last traded price: £9.349530917649915
+2017-03-04 00:53:34,182 DEBUG c.s.d.TestMyStockCode [main] ALE 15 mnts stockPrice is : £6.573577588461521
+2017-03-04 00:53:34,182 DEBUG c.s.d.TestMyStockCode [main] -------------------------- End of details for Stock ---- ALE
+2017-03-04 00:53:34,182 DEBUG c.s.d.TestMyStockCode [main]                                                                                         
+2017-03-04 00:53:34,183 DEBUG c.s.d.TestMyStockCode [main]                                                                                         
+2017-03-04 00:53:34,183 DEBUG c.s.d.TestMyStockCode [main] -------------------------- details for Stock - GIN
+2017-03-04 00:53:34,183 DEBUG c.s.d.TestMyStockCode [main] GIN dividend: 0.21978021978021978
+2017-03-04 00:53:34,184 DEBUG c.s.d.TestMyStockCode [main] GIN P/E Ratio: 41.405
+2017-03-04 00:53:34,184 DEBUG c.s.d.TestMyStockCode [main] GIN's 1 shares were bought at £6.415627676306577
+2017-03-04 00:53:34,184 DEBUG c.s.d.TestMyStockCode [main] GIN's 1 shares were sold   at £7.082425540857347
+2017-03-04 00:53:34,184 DEBUG c.s.d.TestMyStockCode [main] GIN's 2 shares were bought at £6.679988662643315
+2017-03-04 00:53:34,185 DEBUG c.s.d.TestMyStockCode [main] GIN's 2 shares were sold   at £6.167410042868701
+2017-03-04 00:53:34,185 DEBUG c.s.d.TestMyStockCode [main] GIN's 3 shares were bought at £7.444737875458031
+2017-03-04 00:53:34,185 DEBUG c.s.d.TestMyStockCode [main] GIN's 3 shares were sold   at £6.044551006133073
+2017-03-04 00:53:34,185 DEBUG c.s.d.TestMyStockCode [main] GIN's 4 shares were bought at £1.0689268245934294
+2017-03-04 00:53:34,185 DEBUG c.s.d.TestMyStockCode [main] GIN's 4 shares were sold   at £5.812401588044351
+2017-03-04 00:53:34,186 DEBUG c.s.d.TestMyStockCode [main] GIN's 5 shares were bought at £6.363371533041225
+2017-03-04 00:53:34,186 DEBUG c.s.d.TestMyStockCode [main] GIN's 5 shares were sold   at £4.19042205874524
+2017-03-04 00:53:34,186 DEBUG c.s.d.TestMyStockCode [main] GIN's 6 shares were bought at £3.898647771370759
+2017-03-04 00:53:34,186 DEBUG c.s.d.TestMyStockCode [main] GIN's 6 shares were sold   at £7.10173741106051
+2017-03-04 00:53:34,186 DEBUG c.s.d.TestMyStockCode [main] GIN's 7 shares were bought at £7.712085963111247
+2017-03-04 00:53:34,187 DEBUG c.s.d.TestMyStockCode [main] GIN's 7 shares were sold   at £7.190874777788485
+2017-03-04 00:53:34,187 DEBUG c.s.d.TestMyStockCode [main] GIN's 8 shares were bought at £8.36842411940422
+2017-03-04 00:53:34,187 DEBUG c.s.d.TestMyStockCode [main] GIN's 8 shares were sold   at £6.854108401651318
+2017-03-04 00:53:34,187 DEBUG c.s.d.TestMyStockCode [main] GIN's 9 shares were bought at £7.955603201204063
+2017-03-04 00:53:34,188 DEBUG c.s.d.TestMyStockCode [main] GIN's 9 shares were sold   at £5.049446538722722
+2017-03-04 00:53:34,188 DEBUG c.s.d.TestMyStockCode [main] GIN's 10 shares were bought at £3.5475333013582757
+2017-03-04 00:53:34,188 DEBUG c.s.d.TestMyStockCode [main] GIN's 10 shares were sold   at £2.6564231366897584
+2017-03-04 00:53:34,188 DEBUG c.s.d.TestMyStockCode [main] ---------------------------------------------------------
+2017-03-04 00:53:34,188 DEBUG c.s.d.TestMyStockCode [main] GIN last traded price: £2.6564231366897584
+2017-03-04 00:53:34,188 DEBUG c.s.d.TestMyStockCode [main] GIN 15 mnts stockPrice is : £5.948513323347164
+2017-03-04 00:53:34,189 DEBUG c.s.d.TestMyStockCode [main] -------------------------- End of details for Stock ---- GIN
+2017-03-04 00:53:34,189 DEBUG c.s.d.TestMyStockCode [main]                                                                                         
+2017-03-04 00:53:34,189 DEBUG c.s.d.TestMyStockCode [main]                                                                                         
+2017-03-04 00:53:34,190 DEBUG c.s.d.TestMyStockCode [main] the calculated All Share Index is  4.875292804301697
