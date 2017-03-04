@@ -2,7 +2,7 @@
 test program for stock calculation
 
 #Summary of project
-This project is used to load the stock entities in memmory
+This project is used to load the stock entities in memmory.
 For each stock - shares traded are recorder date and time wise using TreeMap and logged in console or plain text file using log42j API.
                - dividend and p/e ratio, and other params necessary are calulated.
                
