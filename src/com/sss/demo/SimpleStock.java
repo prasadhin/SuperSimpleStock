@@ -79,6 +79,7 @@ public class SimpleStock {
 		this.lastDividend = lastDividend;
 		this.fixedDividend = fixedDividend;
 		this.parValue = parValue;
+		this.transactions = new TreeMap<Date,Transaction>();
 	}
 	
 	
@@ -124,8 +125,9 @@ public class SimpleStock {
 	 * @param price
 	 */
 	public void buyTransaction(Integer units,Double price){
-	    Transaction	buytransaction = new Transaction(TransactionType.Buy,units,price);
-	    transactions.put(new Date(), buytransaction);
+	    Transaction	buyTransaction = new Transaction(TransactionType.Buy,units,price);
+	    //System.out.println(buyTransaction.toString());
+	    transactions.put(new Date(), buyTransaction);
 	}
 	
 	/**
@@ -134,8 +136,8 @@ public class SimpleStock {
 	 * @param price
 	 */
 	public void sellTransaction(Integer units,Double price){
-		Transaction	buytransaction = new Transaction(TransactionType.Sell,units,price);
-		transactions.put(new Date(), buytransaction);
+		Transaction	sellTransaction = new Transaction(TransactionType.Sell,units,price);
+		transactions.put(new Date(), sellTransaction);
 	}	
 
 	/**
