@@ -13,6 +13,11 @@ log4j-core-2.8.1.jar
 #JDK Version
 1.7 or 1.8
 
+#Runnig the Application
+download the jar file sst.jar from this location src\com\sss\demo
+and issue the command
+java -jar sst.jar
+
 #Implementation
 1.Enumerators TransactionType  holds the fixed options like buy or sell
             and StockType holds the fixed options like Common or Preffered Stock
